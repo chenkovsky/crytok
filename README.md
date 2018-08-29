@@ -9,7 +9,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   crytok:
-    github: your-github-user/crytok
+    github: chenkovsky/crytok
 ```
 
 ## Usage
