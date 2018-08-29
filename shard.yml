@@ -1,0 +1,12 @@
+name: crytok
+version: 0.1.0
+
+authors:
+  - chenkovsky <chenkov@yeah.net>
+
+crystal: 0.25.1
+dependencies:
+  aha:
+    github: chenkovsky/aha
+
+license: MIT
